@@ -52,4 +52,4 @@ int main(){
     printf("\nResult :%d", PointerProcess(equation1.value1, equation1.value2));
 
     return 0;
-}
+}   
