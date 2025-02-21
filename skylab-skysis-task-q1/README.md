@@ -1,0 +1,1 @@
+Basit matematiksel işlemler (toplama, çıkarma, çarpma, bölme) için fonksiyonlar yazın.
